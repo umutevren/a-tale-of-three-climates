@@ -48,7 +48,7 @@ The temperature data is sourced from Kaggle's "Daily Temperature of Major Cities
 - Custom caption with social media links using Font Awesome icons
 
 ## File Structure
-- `script.R`: Main R script containing the visualization code
+- `temperature_visualization.R`: Main R script containing the visualization code
 - Required font files:
   - Ubuntu (Google Fonts)
   - Chakra Petch (Google Fonts) 
